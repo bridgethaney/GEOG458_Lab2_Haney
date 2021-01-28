@@ -1,4 +1,4 @@
-# GEOG458_Lab2_Haney
+# Lab 2 Assignment
 
 
 ### Geo-Tagged Tweets within the United States with the Keyword 'Playlist'
