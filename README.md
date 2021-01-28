@@ -1,1 +1,1 @@
-# Lab2_Haney
+# GEOG458_Lab2_Haney
